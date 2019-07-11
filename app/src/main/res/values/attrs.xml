@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RecordButtonState">
+        <attr name="press_to_record" format="boolean"/>
+        <attr name="press_to_pause" format="boolean"/>
+        <attr name="press_to_resume" format="boolean"/>
+        <attr name="press_to_stop" format="boolean"/>
+    </declare-styleable>
+</resources>
